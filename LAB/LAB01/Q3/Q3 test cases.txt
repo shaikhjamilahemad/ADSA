@@ -1,0 +1,23 @@
+# Test Case 1: No defective coin
+5
+10 10 10 10 10
+
+# Test Case 2: One defective lighter coin in the middle
+6
+10 10 9 10 10 10
+
+# Test Case 3: One defective lighter coin at the start
+5
+8 10 10 10 10
+
+# Test Case 4: One defective lighter coin at the end
+5
+10 10 10 10 7
+
+# Test Case 5: Multiple coins but no defect
+8
+15 15 15 15 15 15 15 15
+
+# Test Case 6: Large set with lighter coin in between
+10
+12 12 12 12 12 11 12 12 12 12
