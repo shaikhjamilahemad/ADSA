@@ -1,0 +1,4 @@
+A interacts B
+B interacts C
+A interacts C
+C interacts D
